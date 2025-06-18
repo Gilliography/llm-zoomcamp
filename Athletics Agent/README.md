@@ -110,7 +110,7 @@ streamlit
 ## 🙋‍♂️ Author
 
 **Gilbert Kiprotich**
-Follow my [LLM Zoomcamp journey](https://twitter.com/yourhandle) and stay tuned for more updates!
+Follow my [LLM Zoomcamp journey](https://twitter.com/Scrybe_Dev) and stay tuned for more updates!
 
 ---
 
