@@ -112,15 +112,4 @@ streamlit
 **Gilbert Kiprotich**
 Follow my [LLM Zoomcamp journey](https://twitter.com/Scrybe_Dev) and stay tuned for more updates!
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-```
-
----
-
-Would you like me to generate a GitHub-style project thumbnail, deploy instructions, or a badge set for this README?
 ```
